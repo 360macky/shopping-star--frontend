@@ -29,7 +29,7 @@ class Presentation extends React.Component {
                 &nbsp;
                 <a
                   className="btn btn-outline-success btn-lg"
-                  href="#products-catalog"
+                  href="/signup"
                 >
                   Regístrarme
                 </a>
